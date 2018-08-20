@@ -1,0 +1,8 @@
+Intelie:
+- Editor com 2 modos de edicao: Basico e Avancado.
+- No modo basico o usuario deve poder adicionar eventos separadamente.
+- No modo basico o usuario deve comecar clicando em Start e incluindo os campos, agrupamentos e intervalo que deseja consultar.
+- No modo basico o usuario deve poder incluir os dados manualmente ou gerar fake data.
+- No modo basico o usuario deve parar (evento stop) a consulta quando quiser.
+- No modo avancado o usuario deve ter a visão RAW dos eventos inseridos.
+- No modo avancado o usuario deve poder editar os eventos inseridos.
